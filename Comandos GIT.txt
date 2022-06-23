@@ -1,0 +1,72 @@
+ no diretorio digitar 
+
+
+Passo 1
+
+git config --global user.name "neneu" (Comando para criar usuario)
+
+git config --global user.name (Comando para buscar usuario criado)
+
+
+Passo 2
+
+git init (comando para iniciar repositorio local)
+
+
+Passo 3
+
+Copiar comando do seu repositorio criado
+git remote add origin https://github.com/samucards/Flashcode.git  (Comando para vincular o gitHub com git local)
+git status (Verifica se tem algo para commitar)
+git add . (comando para adicionar todas as mudanças)
+
+
+Passo 4
+
+git commit -m "Framework flash Code" (comando para criar pacote para subir)
+
+
+Passo 5
+
+git config --global user.email "colocar seu email"
+git config --global user.name "seu usuario do git"
+
+
+Passo ¨6
+
+git push origin master (Comando para enviar o pacote pro git)
+
+passo 7
+
+git pull origin master (comando para buscar alteraçoes feitas por outra pessoa )
+
+passo 8
+
+OBS: apos realizar alguma modificação no codigo
+git diff (comando para visualizar as ultimas alteraçoes feitas no codigo em relaçao ao git nuvem)
+
+
+passo 9
+
+git log (mostra o ultimo commit feito)
+
+
+passo 10 
+
+git shortlog (mostra quantos commit aquele usuario ja fez )
+
+
+passo 11 
+
+clear (comando para limpar a tela )
+
+
+passo 12 
+
+OBS : copiar o codigo de rexi
+git log (mostra o ultimo commit feito)
+
+
+passo 13
+OBS : cola o codigo do rexi - tecla contra + F mostra a continuação da tela se for ago grnade
+git show (mostra tudo oque foi feito -Colar  o codigo do rexi )
